@@ -1,0 +1,6 @@
+{
+  "name": "双创赛事智能体",
+  "description": "高校双创赛事智能体 Demo：涵盖智能初筛与排名（Scene1）、全链路智能指导工作台（Scene2）、备赛数据驾驶舱（Scene3）及确定性功能模块",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
